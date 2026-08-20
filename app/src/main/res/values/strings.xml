@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ByeByeDPI</string>
+    <string name="vpn_service_label">ByeByeDPI Tunnel Service</string>
+    <string name="vpn_status_connected">DPI Bypass Active</string>
+    <string name="vpn_status_disconnected">Protection Paused</string>
+    <string name="quick_tile_label">ByeByeDPI</string>
+</resources>

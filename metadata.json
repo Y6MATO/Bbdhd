@@ -1,0 +1,7 @@
+{
+  "name": "ByeByeDPI",
+  "description": "Powerful Deep Packet Inspection (DPI) circumvention utility for Android with TCP/TLS fragmentation, SNI desync, HTTP header mods, and VpnService proxy tunnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
